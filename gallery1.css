@@ -7,7 +7,7 @@ body{margin:0;background-color:#000;}
 .column{grid-template-columns: repeat(4,minmax(0,1fr));}
 .grid{display:grid;gap:0.25rem;padding:0.25rem;}
 .relative{position:relative;}
-img,svg, video{max-width:100%;height:165px;border-radius:10px;}
+img,svg, video{max-width:100%;height:150px;border-radius:10px;}
 .w-full{display:block;width:100%;}
 @media (orientation:landscape){
 .column{grid-template-columns:repeat(5,minmax(0,1fr));}}
