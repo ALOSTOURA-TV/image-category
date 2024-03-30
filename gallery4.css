@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Almarai:wght@800&display=swap');
-.gallery{display: flex;flex-wrap: wrap;margin-top: 0px;}.gallery .image{
+.gallery{display: flex;flex-wrap: wrap;margin-top: 8px;}.gallery .image{
   width: calc(100% / 8);  padding: 3px;}.gallery .image span{display: flex; width: 100%;  overflow: hidden;}
 .gallery .image img{width: 100%;vertical-align: middle;transition: all 0.3s ease;  cursor: pointer;}
 .gallery .image:hover img{ transform: scale(1.1);}
